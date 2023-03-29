@@ -1,7 +1,7 @@
 ###  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Gabriel+Data+Science+Frontend+Developer+👋+🖥💻)](https://git.io/typing-svg)
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Gabriel+text+texte+texf;Second+line+of+text)](https://git.io/typing-svg) -->
 Hello there👋,
-I'm Gabriel, a Software engineer and a Data Scientist by Profession . I hold Bacherlor degree BSc in Mathematicsc Computer Science and a Master Degree in Biomathematics from Strathmore University.Currently I am the head of Africa as a Data Manager in an African based NGO , overseeing Africa Projects. I have graduated a 24 weeks FrontEnd course at [Jagaad Academy](https://academy.jagaad.com/). For 6 months I have had to learn and work on various technologies including:
+I'm Gabriel, a Software engineer and a Data Scientist by Profession . I hold Bacherlor degree BSc in Mathematicsc Computer Science and a Master Degree in Biomathematics from Strathmore University.Currently I am a Data scientist. I have graduated a 24 weeks FrontEnd course at [Jagaad Academy](https://academy.jagaad.com/). For 6 months I have had to learn and work on various technologies including:
 
 * HTML
 * CSS
