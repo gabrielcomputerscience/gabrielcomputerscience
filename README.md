@@ -5,6 +5,8 @@ I'm Gabriel, a Software engineer and a Data Scientist by Profession . I hold Bac
 
 * HTML
 * CSS
+* Python 
+* R -scrit 
 * JavaScript
 * TypeScript
 * React
